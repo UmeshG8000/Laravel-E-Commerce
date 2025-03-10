@@ -1,6 +1,6 @@
 ## Installation ⚒️
 
-Installing and running Materio is super easy, please Follow below steps and you will be ready to rock 🤘
+Installing and running E-Commerce app is super easy, please Follow below steps and you will be ready to rock 🤘
 
 1. Open the terminal in your root directory of Laravel.
 2. Use the following command to install the composer
