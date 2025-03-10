@@ -34,3 +34,9 @@ php artisan serve
 ```
 
 7. Now navigate to the given address, and you will see your application is running.🥳
+
+![image](https://github.com/user-attachments/assets/a1b073c3-3b8a-4750-a8b2-c53d634aa37d)
+![image](https://github.com/user-attachments/assets/97f6d905-c6dc-4f66-a8dc-e7b0656f01a5)
+![image](https://github.com/user-attachments/assets/d95cf80b-0882-43f2-8c17-7deeeaf8ae77)
+
+
